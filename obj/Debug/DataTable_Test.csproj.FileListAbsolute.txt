@@ -1,0 +1,11 @@
+C:\Users\EUNJU-JUNG\study\DataTable_Test\bin\Debug\DataTable_Test.exe.config
+C:\Users\EUNJU-JUNG\study\DataTable_Test\bin\Debug\DataTable_Test.exe
+C:\Users\EUNJU-JUNG\study\DataTable_Test\bin\Debug\DataTable_Test.pdb
+C:\Users\EUNJU-JUNG\study\DataTable_Test\obj\Debug\DataTable_Test.csproj.AssemblyReference.cache
+C:\Users\EUNJU-JUNG\study\DataTable_Test\obj\Debug\DataTable_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\EUNJU-JUNG\study\DataTable_Test\obj\Debug\DataTable_Test.Form1.resources
+C:\Users\EUNJU-JUNG\study\DataTable_Test\obj\Debug\DataTable_Test.Properties.Resources.resources
+C:\Users\EUNJU-JUNG\study\DataTable_Test\obj\Debug\DataTable_Test.csproj.GenerateResource.cache
+C:\Users\EUNJU-JUNG\study\DataTable_Test\obj\Debug\DataTable_Test.csproj.CoreCompileInputs.cache
+C:\Users\EUNJU-JUNG\study\DataTable_Test\obj\Debug\DataTable_Test.exe
+C:\Users\EUNJU-JUNG\study\DataTable_Test\obj\Debug\DataTable_Test.pdb
